@@ -1,0 +1,844 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.01,
+        0,
+        0,
+        0,
+        0,
+        0.01,
+        0,
+        0,
+        0,
+        0,
+        0.01,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "matrix": [
+        0.9987238176414641,
+        5.204170427930421e-18,
+        -0.05050481240099394,
+        0,
+        -0.01062401012918239,
+        0.9776247686250501,
+        -0.21008793915784943,
+        0,
+        0.04937475553797327,
+        0.21035639227467565,
+        0.9763771411420631,
+        0,
+        102.59566084403477,
+        203.71585205953684,
+        985.4962533206584,
+        1
+      ],
+      "name": "Camera 3",
+      "camera": 0
+    },
+    {
+      "name": "Shape 0",
+      "mesh": 0
+    },
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -9.23077,
+        0.01,
+        1
+      ],
+      "name": "Shape 1",
+      "mesh": 1
+    },
+    {
+      "matrix": [
+        1.3523053187206155,
+        0,
+        0,
+        0,
+        0,
+        1.3523053187206155,
+        0,
+        0,
+        0,
+        0,
+        1.352305318720616,
+        0,
+        -21.113542827694992,
+        27.178293752151234,
+        -4.063677482755452,
+        1
+      ],
+      "name": "kroktechlogo",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "matrix": [
+        1.8312732676924872,
+        0,
+        0,
+        0,
+        0,
+        1.8312732676924872,
+        0,
+        0,
+        0,
+        0,
+        1.8312732676924874,
+        0,
+        49.09460657473223,
+        -13.348327851158576,
+        3.005,
+        1
+      ],
+      "name": "Group 3",
+      "children": [
+        4
+      ]
+    },
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        -6.039613253960852e-17,
+        0,
+        0,
+        6.039613253960852e-17,
+        1,
+        0,
+        49.73502443586028,
+        -18.874645310614444,
+        1007.690343844025,
+        1
+      ],
+      "camera": 1
+    },
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "name": "Default Ambient Light"
+    },
+    {
+      "name": "Scene 1",
+      "children": [
+        1,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "type": "orthographic",
+      "orthographic": {
+        "xmag": 2.0605321338522,
+        "ymag": 1.0656814629766846,
+        "zfar": 100000,
+        "znear": 0
+      },
+      "name": "Camera"
+    },
+    {
+      "type": "orthographic",
+      "orthographic": {
+        "xmag": 1.85963025080161,
+        "ymag": 0.9617775203364577,
+        "zfar": 100000,
+        "znear": 0
+      }
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 288,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 288,
+      "byteLength": 288,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 576,
+      "byteLength": 192,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 768,
+      "byteLength": 144,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 912,
+      "byteLength": 1608,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2520,
+      "byteLength": 1608,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4128,
+      "byteLength": 1072,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5200,
+      "byteLength": 1392,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6592,
+      "uri": "data:application/octet-stream;base64,/Jj3QQAAAAAAAMBA/Jj3QQAAAAAAAAAA/Jj3QQAAAAAAAMBA/Jj3QQAAAAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAAAAAAAIeKwsAAAMBAAAAAAIeKwsAAAAAAAAAAAIeKwsAAAMBAAAAAAIeKwsAAAAAA/Jj3QYeKwsAAAMBA/Jj3QYeKwsAAAAAA/Jj3QYeKwsAAAMBA/Jj3QYeKwsAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAA/Jj3QYeKwsAAAMBA/Jj3QYeKwsAAAAAA/Jj3QQAAAAAAAMBA/Jj3QQAAAAAAAAAAAAAAAIeKwsAAAMBAAAAAAIeKwsAAAAAAAAAAgAAAgD8AAAAAAAAAgAAAgD8AAACAAACAPwAAAAAAAAAAAACAPwAAAAAAAACAAACAvwAAAAAAAAAAAACAvwAAAAAAAACAAAAAgAAAgD8AAAAAAAAAgAAAgD8AAACAAAAAgAAAgL8AAAAAAAAAgAAAgL8AAACAAACAvwAAAAAAAAAAAACAvwAAAAAAAACAAACAPwAAAAAAAAAAAACAPwAAAAAAAACAAAAAgAAAgL8AAAAAAAAAgAAAgL8AAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIC/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAAAAAACAPwAAgD8AAAAAAAAAAAAAgD8AAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AACAPwAAAAAAAIA/AAAAAAAAgD8AAIA/AACAPwAAgD8AAAAAAAAAAAAAAAAAAAAABgAAAAAAAAABAAAABgAAAAEAAAAHAAAACgAAAAQAAAAFAAAACgAAAAUAAAALAAAADgAAAAgAAAAJAAAADgAAAAkAAAAPAAAAAgAAAAwAAAANAAAAAgAAAA0AAAADAAAAEAAAABIAAAAUAAAAFQAAABMAAAARAAAAEgAAABAAAAAWAAAA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"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        30.94969940185547,
+        0,
+        6
+      ],
+      "min": [
+        0,
+        -6.079410076141357,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 36,
+      "max": [
+        23
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 134,
+      "max": [
+        31.22599983215332,
+        0,
+        6
+      ],
+      "min": [
+        0,
+        -30.96472930908203,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 134,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 134,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 348,
+      "max": [
+        133
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "extras": {
+            "parameters": {
+              "width": 30.9497,
+              "subdivisions": 12,
+              "roundness": 0,
+              "extrudeBevelSize": 0,
+              "extrudeBevelSegments": 1,
+              "windingRule": 0,
+              "shape": {
+                "points": [
+                  {
+                    "fi": 0,
+                    "id": "61bfc639-630a-4b4e-b270-4b4eedae4a76",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        0,
+                        0
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          0,
+                          0
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          0,
+                          0
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 1,
+                    "id": "8e1dddff-0aba-488c-8352-a6125850b5b2",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        30.9497,
+                        0
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          30.9497,
+                          0
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          30.9497,
+                          0
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 2,
+                    "id": "0d2cf9a6-328c-460d-a55c-a898b1a7d64c",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        30.9497,
+                        -6.07941
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          30.9497,
+                          -6.07941
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          30.9497,
+                          -6.07941
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 3,
+                    "id": "b46f130e-1c5e-424c-bf60-2d3d9badf5bf",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        0,
+                        -6.07941
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          0,
+                          -6.07941
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          0,
+                          -6.07941
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "isClosed": true,
+                "roundness": 0,
+                "shapeHoles": []
+              },
+              "type": "VectorGeometry",
+              "height": 6.07941,
+              "depth": 6
+            },
+            "shape": {
+              "points": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                30.9497,
+                0,
+                30.9497,
+                0,
+                30.9497,
+                0,
+                0,
+                30.9497,
+                -6.07941,
+                30.9497,
+                -6.07941,
+                30.9497,
+                -6.07941,
+                0,
+                0,
+                -6.07941,
+                0,
+                -6.07941,
+                0,
+                -6.07941,
+                0
+              ],
+              "shapeHoles": [],
+              "isClosed": true,
+              "roundness": 0
+            },
+            "type": "VectorGeometry"
+          },
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "extras": {
+            "parameters": {
+              "width": 31.226,
+              "subdivisions": 12,
+              "roundness": 0,
+              "extrudeBevelSize": 0,
+              "extrudeBevelSegments": 1,
+              "windingRule": 0,
+              "shape": {
+                "points": [
+                  {
+                    "fi": 0,
+                    "id": "f2407b45-55aa-4041-a07e-4714df86b23a",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        25.1467,
+                        -30.934730000000002
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          25.1467,
+                          -30.934730000000002
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          25.2143,
+                          -17.28443
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 1,
+                    "id": "03b3bfac-ae11-4541-a954-add879cdec24",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        0.553703,
+                        -6.07943
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          14.1642,
+                          -6.07943
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          0.553703,
+                          -6.07943
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 2,
+                    "id": "9b7456b2-2f4e-4e81-a444-ac218393c262",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        0,
+                        -6.07943
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          0,
+                          -6.07943
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          0,
+                          -6.07943
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 3,
+                    "id": "0b0981c6-b9b8-42f9-8ae5-1eda951972e8",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        0,
+                        0
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          0,
+                          0
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          0,
+                          0
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 4,
+                    "id": "dbecdd5f-a3ec-41e5-8233-2e1b34258a64",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        30.9497,
+                        0
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          30.9497,
+                          0
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          30.9497,
+                          0
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 5,
+                    "id": "d369b295-cc2a-4b97-80ff-c5c2c91b13b0",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        30.9497,
+                        -6.07943
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          30.9497,
+                          -6.07943
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          30.9497,
+                          -6.07943
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 6,
+                    "id": "cf640a15-f29f-485c-93a1-86c0fec19e63",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        18.8209,
+                        -6.07943
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          18.8209,
+                          -6.07943
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          26.3918,
+                          -11.74213
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "fi": 7,
+                    "id": "e238d5d2-559d-4d1b-958c-76a264f4388b",
+                    "data": {
+                      "roundness": 0,
+                      "position": [
+                        31.226,
+                        -30.964730000000003
+                      ],
+                      "areControlsDirectionsMirrored": true,
+                      "controlPrevious": {
+                        "position": [
+                          31.2763,
+                          -20.81893
+                        ]
+                      },
+                      "controlNext": {
+                        "position": [
+                          31.226,
+                          -30.964730000000003
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "isClosed": true,
+                "roundness": 0,
+                "shapeHoles": []
+              },
+              "type": "VectorGeometry",
+              "height": 30.964730000000003,
+              "depth": 6
+            },
+            "shape": {
+              "points": [
+                25.1467,
+                -30.934730000000002,
+                25.1467,
+                -30.934730000000002,
+                25.2143,
+                -17.28443,
+                0,
+                0.553703,
+                -6.07943,
+                14.1642,
+                -6.07943,
+                0.553703,
+                -6.07943,
+                0,
+                0,
+                -6.07943,
+                0,
+                -6.07943,
+                0,
+                -6.07943,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                30.9497,
+                0,
+                30.9497,
+                0,
+                30.9497,
+                0,
+                0,
+                30.9497,
+                -6.07943,
+                30.9497,
+                -6.07943,
+                30.9497,
+                -6.07943,
+                0,
+                18.8209,
+                -6.07943,
+                18.8209,
+                -6.07943,
+                26.3918,
+                -11.74213,
+                0,
+                31.226,
+                -30.964730000000003,
+                31.2763,
+                -20.81893,
+                31.226,
+                -30.964730000000003,
+                0
+              ],
+              "shapeHoles": [],
+              "isClosed": true,
+              "roundness": 0
+            },
+            "type": "VectorGeometry"
+          },
+          "indices": 7
+        }
+      ]
+    }
+  ]
+}
